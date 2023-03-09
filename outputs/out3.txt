@@ -1,0 +1,4934 @@
+19 0 L L U U U L D D D D D 
+50 0 D D 
+98 0 D D D L 
+
+224 0 D D D L L L L D D D D D D L D 
+242 0 D L L L D D L L U L D D L L D D L 
+248 1 L U U U U U L D D 
+
+
+90 2 D L D L D L D 
+
+50 3 D D D D D D D D D D 
+
+
+58 4 D D L D L D 
+109 4 D D D D L D D D 
+
+
+168 4 D D D D D D 
+
+
+135 7 L D L L L L D D D L L U U U L L D R 
+79 8 L D D L L D L 
+
+
+70 9 U U U R 
+
+
+88 10 U L L U U U L D 
+121 10 L L U U U U L U U L 
+
+
+
+106 11 D D D L D L L U L D L D D L 
+142 12 L D D L U U L U 
+
+
+
+50 14 D D D D D D D D D D D D 
+
+192 14 D L U L U L L L U 
+95 15 D D L L L D D L D 
+
+13 17 U L L D L L 
+98 17 D D L L L 
+
+244 17 D L L L L D D D L L D 
+
+
+
+
+
+219 19 D L D D D L U 
+
+137 22 D L D D D D L D D D D L L L L L 
+165 22 D D 
+
+41 23 U U L D 
+204 23 D L D L 
+
+164 24 L D L D L L D 
+243 24 L D R 
+9 25 D L 
+16 25 D D D L L U U 
+
+
+248 25 D D D L 
+
+
+
+
+
+
+50 27 D D D D D D 
+57 27 D L D D D L D D D L D D D D L L L 
+
+
+70 28 L L L D D L D L D D D D D D 
+
+164 28 D L L D L D D D L D D L L D D D L L 
+
+213 28 D D D D D D 
+
+189 30 D L L D D L L L D L L U U U U 
+201 30 L D L D D D L U L D D L 
+
+
+
+176 31 U U U U U 
+
+
+2 33 D L D L D D L 
+
+50 34 D D D D D D D D D D D D D D D D 
+
+
+
+
+103 35 L L D D D D D L L D 
+116 35 U U L L D D D D L D D 
+
+
+119 36 D D L D L D D L U L D 
+
+240 36 U L 
+
+24 38 U U L L L D D L D L D L L 
+
+
+
+
+
+137 40 L U U U U L D L L D 
+197 40 L D L D D 
+
+31 41 U L D L D 
+
+
+129 42 U L 
+
+
+
+
+
+
+8 44 D D L 
+189 44 L L D L L D L D D D 
+92 45 U L L U U L D D L D L D D L D 
+
+
+
+54 46 U U U U L 
+
+197 46 D D 
+150 47 L U L L D L L D L D L D D D D D D L D 
+42 48 D L D D D L L L L L L U U U U L 
+
+
+
+164 49 L L L L L U U L L D D L D L 
+
+138 50 D D D L D D L L D L 
+
+211 50 D D D D D L L 
+
+50 51 D D D D D D D D D D D D D D D D D 
+
+
+
+7 52 D D D D L U L L D 
+
+
+
+
+
+183 54 U U L L L D D L D L L L L D 
+
+
+
+
+
+
+
+215 57 D D L L U U L 
+
+148 58 D L L D D D L D L D D D D L 
+
+221 58 L L L 
+
+47 59 D D D 
+
+227 59 D D 
+
+
+
+135 61 D L D D R 
+
+206 62 D D L 
+
+14 63 D L D D L L L D D D L L 
+
+187 64 D L D D L D L L D D L D D D 
+
+158 65 D D 
+239 66 D L D D L L U L 
+250 66 L L D L L 
+
+84 68 D D D L U L D L D L D 
+
+50 69 D D D D 
+230 70 U U U L D L U L L L U L D 
+
+
+
+
+50 74 D D D D D D 
+8 75 L D D D D D L D L L D D 
+
+
+108 76 U L L L L U U U U U U 
+127 76 D D 
+
+
+
+
+151 78 D D L L L D D D D D 
+
+48 79 L D L U L L L 
+
+
+
+
+
+140 81 U L D 
+92 82 D L D L 
+137 82 L D L D L 
+146 82 U U U L 
+
+
+
+229 83 U U U U U U L L L D D 
+
+
+
+76 85 L D D D D L L D L L 
+
+
+
+143 87 D D L L L D L L L U L D D L L D L L 
+84 88 U L D 
+
+176 88 D D D 
+211 88 D R 
+239 88 L D D L D L D L D L D L 
+78 89 D L 
+
+134 90 U L L L D L D L D L D D L L L L L D D 
+
+
+
+62 93 L D 
+
+
+
+
+
+
+50 96 D D D D D D D D D D D D D D D 
+118 96 L U L D L 
+
+21 97 L L D D D 
+
+154 97 U U L U L 
+207 97 D L L U U L 
+142 98 D L 
+148 98 D L U L L L 
+245 98 D D L D D L D L D D L D L L D D 
+
+
+
+
+143 100 D L D D L D D D D D R 
+
+17 101 D D L D L D L D L D D D L L D D D D 
+
+
+131 101 L L D D D L D L D D D 
+139 101 D L L D D D D D L U U U U L 
+199 101 L U U R 
+
+32 102 D D L D 
+
+
+
+
+
+
+
+10 106 D L D D L 
+
+59 107 U U L D D D D L D 
+
+
+226 110 D D D L D L D L L L 
+
+
+237 111 D D R 
+241 111 U L 
+50 112 D D D D D D D 
+66 112 U L L L L D L L D L D D L D R 
+
+132 112 D D D L L L L D L U L L L U L L U U 
+
+16 114 D L U U U 
+
+
+
+176 115 U U U U L L 
+
+
+
+
+
+
+149 119 L D L D L D L L L U U U L D D L D R 
+228 119 U L D L D L L L 
+
+50 120 D D D D D D D 
+
+175 121 D D D 
+76 123 L D L L U U L 
+
+
+71 124 U L 
+
+120 125 D D L D L D D D D L L D D D L D L L D 
+
+
+
+
+117 126 U U U L L L U U 
+42 127 U L D L D L D D D D D L L 
+
+
+
+79 128 L D D D D D D 
+
+
+225 128 D L U 
+14 129 L L D L L U U L D 
+20 129 D L L L L D R 
+
+0 131 D L U 
+25 131 L D L L D L L U L D D D D L 
+164 131 D L 
+
+
+91 132 U L L U U L L L L L L D D D 
+
+
+44 133 D D D L L D D D D D D L D 
+
+
+247 133 L D D D D D 
+8 134 D L L D 
+
+61 134 D L L D D D D L L U L 
+
+121 134 U U U U L L 
+206 134 U R 
+217 134 U U U U U U U U U 
+50 135 D D D D D D D 
+
+162 136 D L L U L U L D D D 
+
+177 137 D D L D D D D D L L 
+94 138 U U L U L D D D D D L D L L L L U L 
+
+
+
+251 138 D D D D L L L L L 
+71 139 D D D L L L L D L D D D D L L L L D 
+
+100 139 U U 
+
+
+164 140 D D D D L D D D L D L 
+22 141 D D L L L U U U L 
+
+
+
+202 142 D L 
+220 142 L L D D D D L 
+50 143 D D D D D D D D D D D D D D D D D D 
+186 143 L D D D D D D D L L L U L D L D 
+
+
+
+126 145 L D D L D 
+
+224 145 D L L L D L D D D D R 
+
+6 146 D D D L D L L D D D D 
+
+
+
+237 146 D D D D L D D D 
+60 147 U U L U L L L L L L 
+
+
+
+
+
+148 150 D D L D D D L D 
+
+187 150 D L D D L D D L L 
+109 151 L L D L U U 
+
+15 153 D L U U 
+
+11 154 D D D L D L L L D L U L L D 
+
+
+
+
+
+
+
+99 155 L D L D D L L D D D D L L U U L D 
+225 155 U U L L D D D 
+90 156 U L U L L U U L L D D L 
+
+157 156 L L L L D D 
+
+191 156 L D L D L D D D L U L 
+
+
+
+2 158 L D D L L L D L D L D L D 
+
+111 158 D D D D L L 
+
+
+154 159 D D L U L 
+
+23 162 U L L L D D D D L L U L D L D D D D D 
+
+
+62 163 U U L D D D D D 
+115 163 U U U 
+30 164 D L D L D L U 
+44 164 D D L L 
+50 164 D D D D D D D D 
+
+
+
+
+1 166 U U L U L 
+
+
+190 167 U L D D D D D D L L D 
+109 168 U U L L 
+141 168 U L D L D L D D L D D D D R 
+
+
+
+161 169 L D L D L D D D L L 
+
+
+236 169 D D D D D D D L L L D L D 
+99 170 D L U U U R 
+204 170 L L D 
+
+80 171 U L L U L D D L D L L D 
+169 171 D D D D D 
+215 171 L L 
+37 172 D L D L L L L D L L L L D D L U 
+50 173 D D D D D D D D D D D D D D D D 
+
+
+85 175 D L U L D D L D L D D D D L L D L L 
+161 175 D D L D D D D 
+
+
+12 178 U U L U R 
+31 178 D L D D D R 
+
+197 178 D D D D R 
+
+78 179 L L U L 
+57 180 D D 
+65 180 L D L U U U L U L L D D 
+
+
+233 181 D D D D L D D D D L 
+
+82 183 D D D D D D 
+133 183 D D D D 
+
+
+12 184 L L D D D L L L D L L D L D D L D L D 
+
+
+
+159 186 L D D D D D L L D D D L L L 
+
+
+43 187 L L L D D 
+
+47 188 D L D D D L D D L L L L L L 
+87 188 L D L L D D L L L U L U 
+98 188 L L D 
+
+21 190 U U 
+
+12 191 L D L D D 
+88 191 D L D 
+132 191 D D D L L L L L 
+
+122 192 D D L L L L L L L L L 
+0 194 L L L L L L L L L L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+50 195 D D D D D D D D D D D D D 
+223 195 D D L L D D 
+246 195 L L L D L L D L L D L 
+
+82 196 U L L L D D L L L D 
+
+141 196 L L L L L L D L L U 
+
+154 196 L D D L U L L 
+199 196 L D D L L D D L D 
+207 198 U L L D D D D L D 
+
+
+165 199 D L D L D L L L D D 
+209 199 L D D D L L D D L L D D L L L 
+
+102 200 L L D D 
+
+
+92 203 U L D D L D D 
+42 204 L D D L L D L L D 
+
+32 205 D D D D L D D D D L L L D L L D D D 
+
+
+237 205 D L D R 
+
+
+104 207 L L L L D D L L D L D L D D D L D R 
+
+172 209 L D D D L D L D D D D D L 
+
+
+
+122 211 L D 
+
+
+175 211 D L L D 
+
+50 212 D D D 
+
+153 213 D L L U L L D L D D D R 
+
+12 214 L D D 
+
+
+
+
+50 216 D D D D D D D D D D D D D D D 
+
+
+172 216 D D D D D D L L L U L D D L D L L D 
+
+
+
+
+
+167 219 D L D D D 
+9 220 L D 
+
+
+
+161 220 D D 
+3 221 D D 
+
+201 221 D L 
+209 221 U L L D L D L U L L D D D D 
+
+189 222 D D L D D L D D D L L L D D 
+
+
+194 223 D D L D 
+
+237 223 U U U L D L D L L U U L D D D D 
+131 224 L L L D 
+
+
+
+
+202 226 U U L L D L 
+
+154 227 D D D 
+185 227 L L D L D L D D D D D D L D 
+0 228 D L L U 
+97 228 U L U U U L 
+150 228 D L D D L D L L D L D 
+213 228 D L D L L U U L U U L 
+
+
+164 229 L D 
+
+
+137 230 D L 
+
+103 231 D D L L D L L D D D D 
+189 231 D L D L L D D L D L L D D L L L U R 
+
+
+139 232 D L D L L D D D D D D L D D L D R 
+202 232 L D D D L L L D L D L 
+
+
+177 233 D D L L L L D L L D L 
+34 234 D D D L U L L L D L L U U L U 
+
+
+141 235 D D 
+
+
+5 237 L D L D D L L 
+
+
+50 238 D D D D L D L L L L 
+88 238 L D D 
+
+
+
+
+
+
+
+6 3 U U L D D L D L 
+
+33 3 L L 
+
+
+
+
+
+
+6 8 D L L D L L 
+
+
+
+239 8 L D D L U L L D L L U U L U U L D 
+
+
+
+
+
+
+
+183 12 L L D D L 
+
+
+244 13 L D L D D 
+
+134 14 D L U L L D D D D D L 
+
+197 14 D L 
+
+
+
+86 15 D D 
+
+
+
+208 17 D D D 
+
+218 18 D L L 
+132 20 L D D L 
+197 21 D D D D D 
+
+48 22 D L L D D D D 
+81 22 L U L D D D 
+126 22 D D L 
+
+
+66 23 D L 
+
+
+69 24 D D L 
+194 24 D L L 
+226 24 L L 
+
+
+151 25 U U L D D D L D D L L L 
+
+76 27 L L 
+98 27 D D 
+
+
+
+
+
+
+218 30 D D L D L 
+
+147 31 D D D D D D D D D L L L L U 
+
+
+237 32 L D L L D L D D D D L L D L D L D D D 
+0 33 L L L L L L D L L L U U L U L L D 
+
+
+48 33 D L D D D D D D L L L L D D L D D D 
+
+135 33 D L L U L L L L D L D L U U L U U U U 
+143 33 U L L L U U L L D L D D L 
+155 33 D L L D D L D D D L 
+
+
+38 36 D D D L 
+207 36 L D 
+
+4 38 U U L U L 
+13 38 U L D L L U L 
+
+
+
+
+
+172 39 D L D L U L U U U U U L D D 
+
+190 41 U U L L D D D L L D L L L 
+226 42 D D D D D D D L L L L L L 
+106 43 U U U L 
+218 43 L D L D D L L L U L D D L 
+
+
+
+
+
+89 46 D D L D L D D L D L D L L L D L D D L 
+145 46 L U R 
+
+
+
+80 50 D D D D L L D D D L L D L L 
+
+238 50 L L L D D D L D D 
+
+223 51 D D R 
+
+
+123 53 L L 
+
+24 54 L D D L D L D D 
+75 54 L D L D 
+
+
+115 56 D R 
+
+180 57 D D L U L L D L D D D D D D D L D D 
+
+57 59 D D D L U L U U L U L U L U U 
+
+
+
+
+
+
+
+
+
+184 61 D D D D D L 
+
+
+
+
+
+
+
+
+45 64 U L L U U 
+
+
+
+137 67 L D L D L U 
+156 67 D D 
+168 67 D L L D L D D D D D D D 
+6 68 U L L D L D L L U L 
+
+
+
+
+
+
+48 70 D L D L D L L 
+
+112 70 L D 
+
+
+
+207 71 D D L L L D L 
+243 71 L D D 
+
+
+
+
+123 74 D L D L L D L L D L U U U L D 
+
+177 74 U L L L L 
+
+24 75 U U U 
+113 75 U U U L D D L 
+
+
+
+169 77 D D D D D D L L L D D R 
+215 77 L D D L D D 
+32 78 D L D L D 
+
+91 79 U U L L L U U L D L L 
+
+134 80 D D L D D 
+
+
+
+
+
+
+
+242 83 D D D L D L L U L L D D L D L 
+
+
+105 87 D L D D L L D L D R 
+18 88 L D D D L L 
+116 90 U L D L D D L D L D D L L D L 
+
+49 91 D D D 
+
+234 91 D L L U L U L L 
+31 92 D D L D L U U U L L D L 
+41 92 D L L D L 
+183 92 D L D L L L D R 
+
+
+
+91 94 U L D L 
+100 94 D L D 
+135 94 D D L D 
+
+
+
+
+
+
+175 96 D R 
+9 97 D L U U U U U L L D D L L D 
+15 97 U L D D L 
+
+139 97 D L L U L D L U 
+182 97 D R 
+
+
+
+192 98 D D 
+
+220 98 D D D R 
+
+
+
+
+
+
+
+
+
+
+119 104 U L U L L 
+
+
+
+
+69 106 D D L L L L 
+101 106 L D D D D 
+
+165 108 D D D D L 
+
+
+
+
+
+73 110 U L L D D L L D D L D D L D D L 
+169 110 L L U U U U L L L D 
+189 110 U U U 
+
+136 111 D R 
+
+
+
+
+245 113 U U 
+
+
+
+
+
+49 117 L L D L L D D L L D D D D D L L U 
+
+166 117 D D L L L D 
+
+58 118 L D D D D D 
+112 118 D D 
+
+
+190 120 L L D D L D 
+
+
+
+200 121 D L D D D L L D D 
+221 121 U L L D L L L L U U L D D D D L L L 
+230 121 D D D 
+
+
+
+
+245 122 L L D L D L U L D D D 
+80 123 L U U U L 
+98 124 D D L D 
+
+
+
+104 125 D L 
+
+
+154 126 D D D L L U U L U L D L 
+
+
+
+
+
+
+71 132 L D 
+153 132 D L D L U 
+166 132 D D R 
+243 132 D D D 
+
+
+193 133 L L D D D D D L L D D D D L L 
+
+
+
+
+
+49 136 D D D D L 
+127 136 U U L D D D D D D D L D 
+
+
+
+
+232 139 D L L D D L L D D L L L D 
+
+
+
+
+11 142 L L D L 
+149 142 U L D L D D D D L L D D D L 
+198 142 D D L D D D 
+
+
+104 143 D D D L U L L L L 
+
+246 143 D D L L D L L 
+
+
+38 145 L L U L L 
+112 145 D L D 
+
+48 146 L D L D D D L 
+82 146 L D L L D L L D L D L L D L 
+
+
+
+
+218 149 D L D L D D 
+116 152 L D D D L 
+155 152 L D D L D L U L L D D 
+
+
+249 154 D L D D D L D D D L D L 
+
+
+
+
+
+79 157 U L D D L L D D D L L D D 
+171 157 L D D D D D L L L L L D L D L D D 
+
+
+
+
+
+219 160 D L D 
+
+
+192 161 L L D D R 
+
+
+
+
+
+73 164 D L D L L L D D 
+
+
+
+135 166 U L D 
+
+
+172 170 D D D D D D L D L L L L U U U U U U 
+
+16 172 D L D L D D D 
+45 172 D D D 
+247 172 L D D L L 
+2 173 L U L D L L D D D L L L 
+
+
+22 176 L D L D R 
+45 177 L U U U L L L D D D L L L L L L 
+
+155 177 D D D D 
+
+
+247 177 L D D 
+
+
+98 178 L U U U L 
+
+138 178 L D L L L D D D L 
+
+
+83 179 D L 
+
+
+228 179 D D L L L L L 
+
+
+
+
+
+
+92 184 D L L D D L 
+
+6 185 L L L D D L D L D L L L 
+
+
+179 186 U U U U L L U L L U L D 
+
+
+58 187 D D D 
+
+178 187 D D 
+
+
+
+
+
+
+
+166 190 D D 
+
+
+147 192 U L D D L U U U 
+208 192 D L U U 
+38 193 U L L U L L D D L L L U L U 
+
+
+226 193 L U L D L L L L U L D L U U L L D D 
+
+61 195 D L L D L L L U U L L 
+
+99 195 D D D D L L L U U 
+180 195 D L U L L L L D D 
+
+
+
+
+
+164 197 D D L L D L L D L D 
+
+
+
+116 200 U L D D R 
+171 200 D D L D L D D L L D L 
+
+
+121 202 D L D D D D L D D D 
+
+37 203 U U R 
+
+33 204 L U U U U L U U U L 
+
+
+
+
+
+30 207 D L D L L D D L L L 
+
+
+
+
+
+155 209 L L U L U U U L 
+
+
+124 212 D D L 
+194 212 U L D L L D 
+
+
+
+126 213 U R 
+
+
+
+41 214 D D D D 
+
+107 215 D D D 
+
+158 216 U L 
+
+
+219 217 D L L 
+234 217 L U 
+
+
+84 221 U L L D L D D D D D D D D L D D L 
+
+219 221 L U L L L L D 
+
+228 222 D D 
+
+
+
+
+
+
+152 227 L U U U U L U U 
+3 228 D D D L L L D D D D L L U U 
+
+
+
+
+151 233 D D D 
+
+3 234 D D D L L D D 
+
+74 236 L U U U L U U 
+
+
+98 238 D L D L L D L L D L U 
+204 238 L L D L D D D D D L D L 
+
+
+175 240 L L D L D D D D R 
+
+
+
+
+74 0 L D L D L D L 
+
+237 0 U U R 
+118 1 L D 
+
+162 2 L U L L D 
+
+
+49 3 D L D 
+
+
+
+226 4 D D L L L L D D L 
+
+
+194 5 L D D 
+203 5 L L D D L L 
+
+
+115 7 D D D D D D L D L D 
+
+
+
+
+203 11 D L D D D L U L D L L 
+
+
+
+
+134 12 L D L L 
+
+
+
+
+
+
+247 16 D D L D D D D L L L L D 
+
+
+
+13 21 D L D L L 
+
+
+
+24 23 U U U U L D D D L L U L L D L L 
+
+
+
+39 24 D L 
+141 24 L D D 
+
+
+
+
+64 27 L D L U U U 
+
+72 31 D L D D L D D L D D L L D D 
+87 31 D L D L L D D L D D 
+
+
+
+
+
+
+
+124 38 U U L 
+
+9 39 D L D L L L D 
+25 39 D D D 
+
+
+
+
+
+249 40 U L D D D 
+
+
+98 41 L D L 
+
+
+
+0 42 D D D D D D L L 
+
+
+
+140 44 D D L L D D L L L L L D D R 
+
+
+27 45 L D L D L D D 
+
+
+46 48 L D D D L D D D L D L L L 
+
+151 48 D D L D L L D D 
+171 48 L L D D L L D L L D D D D 
+204 48 D L D D 
+1 49 D L L D L 
+
+
+
+
+56 50 U L D L D L L D 
+82 50 U L L L 
+91 50 D D L L L D L D 
+
+
+
+
+
+
+27 55 D D D D D D 
+
+
+
+
+
+
+
+249 58 U L D D L L D 
+64 59 L D D L L U L U 
+124 59 U U U L L L L D L D D L U 
+2 60 D D D L L D L 
+
+
+65 60 D D L 
+
+36 61 D D D L U L D L L D D L D L D D 
+
+
+
+142 63 U R 
+138 64 L D D L U 
+149 65 L D D D D D L D L D L D L L D R 
+
+
+
+
+133 68 D L D L 
+
+
+46 70 D L L D L 
+
+
+197 70 U U L D L D L L L L D L D L U L L D D 
+
+
+73 72 D L L D 
+119 72 D L D 
+
+
+
+
+225 75 D D L L U U L 
+
+
+
+153 77 U U 
+
+
+
+73 80 D D 
+66 81 D L D D L D D D D 
+
+205 81 L D D L 
+42 82 L D D D L D D L L D L 
+240 82 D L D L U U U 
+
+
+
+234 84 U L L D L L D L D D D L D 
+
+
+135 87 L L U L D L L D L D L D 
+
+
+
+
+197 89 D R 
+
+
+
+
+
+
+109 91 D L D 
+209 92 D D L D D L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+153 101 D D L U L D D L 
+169 101 D D L L 
+204 101 D L D 
+
+
+
+115 104 D L D D 
+
+
+
+
+
+
+195 105 D D 
+130 106 D L D D 
+
+
+207 107 D D L D L L U U L D D L L L L D D D 
+
+
+233 112 D L L U U U 
+
+
+
+
+167 114 D L D L L U L U L D L 
+
+98 116 U L U 
+
+
+92 117 D D D 
+214 117 D R 
+
+21 118 D D L D D D D D D L D 
+
+
+
+
+
+
+
+
+166 121 L D L D D D D D L D 
+
+
+
+
+
+228 122 D D 
+
+
+214 126 D D 
+49 127 U U L L D 
+
+179 127 U L L L L L U L L D L D D L 
+
+59 129 D D R 
+
+
+
+
+
+
+224 131 D L L D D D D D L D D L U U L L L 
+
+
+69 133 L L D 
+
+
+
+
+
+
+
+
+
+5 140 L D 
+
+63 141 D D 
+
+
+
+
+205 143 L L 
+107 145 U R 
+61 148 D L L L L 
+
+
+
+
+225 151 U U L D L D D L L D 
+38 153 L L L D L L L U L D D L 
+
+
+
+
+
+
+110 155 L D D D D L D D L U L L L 
+
+
+
+
+76 157 U L U L 
+
+127 157 L D D L L U L L D D D D D L D L D L D 
+
+
+
+
+
+
+209 159 L D L D L L L L 
+
+
+
+
+
+
+
+245 164 L L D L U U U U U L L D D L L 
+
+
+
+63 167 L D D R 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+242 175 U U L D D 
+
+245 176 D D L D L U 
+113 177 U U U U U U L L 
+
+
+
+
+49 180 U L L L D L D L D D 
+
+
+
+
+
+
+
+
+241 185 U U U U U U U L D 
+
+115 187 D D D R 
+
+
+
+
+
+
+102 190 L U U L 
+
+
+
+
+114 192 U L L L D D L L L L U L 
+
+
+142 193 L L U U U L 
+
+1 195 L D 
+
+
+
+
+91 199 D L L L L D D L U U 
+
+
+
+
+
+
+
+12 204 U U L U U L 
+
+
+
+235 204 D L D 
+
+
+
+
+145 207 D D D L U L L D L L U U L D L D 
+200 207 D R 
+40 208 L D D 
+
+
+70 209 D L D D D D R 
+
+
+
+
+202 210 D L D L L 
+
+161 211 D D D L 
+213 212 D R 
+
+
+
+
+
+22 216 L L D 
+
+
+
+
+17 217 D L L L D 
+
+125 219 D D D 
+
+
+
+104 222 L D D D D R 
+
+92 223 D D D D D L D L D D D 
+
+
+119 227 L L 
+
+
+13 229 D D L D L L 
+196 229 D L D L U L D D 
+234 229 D L 
+
+
+
+
+
+
+
+
+
+157 234 D D D L L D D L L U L L 
+
+
+
+
+
+
+
+
+196 238 L D D R 
+173 239 U L L L L L L D D D D L L 
+193 239 L L D D L D L D D L 
+
+
+
+91 240 U U U L L U U U U L 
+116 240 D L D L L D L D L L D L 
+
+
+
+
+145 242 D L L U L D D D D L U L L 
+
+
+
+235 242 L D D L D L 
+177 0 D D 
+
+
+21 4 D D D 
+
+
+
+38 8 D L D L 
+
+
+
+
+
+57 12 D D L 
+10 13 L U U 
+
+
+
+
+
+
+
+
+193 18 U U L D D L L U L D D L L U L 
+
+108 19 U R 
+
+53 20 D L L 
+
+
+
+106 22 D R 
+
+
+
+
+
+
+
+
+
+
+
+
+
+180 28 D L D L 
+
+
+
+99 30 D L L D L D D L L D L U U U U R 
+
+46 32 D D L D D L D L U L U 
+
+
+
+
+
+
+99 35 D D D D L D L U L L D D L L D R 
+
+
+246 36 D D D L D L U U R 
+
+
+179 37 U U 
+
+
+
+
+
+
+76 42 L L L D D D R 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+165 50 L D L D D L D 
+
+
+
+
+
+
+
+157 56 D D L D D L D 
+
+148 57 L D L L D D L L 
+
+
+3 58 U U L U 
+40 58 L U R 
+
+240 60 U U U 
+0 61 U L L D 
+
+
+
+
+202 63 L U 
+
+
+
+
+80 65 D D L D L D 
+
+
+132 67 D L D L L 
+
+
+
+
+140 68 L D D 
+
+
+
+
+
+160 73 D L D L L 
+
+
+
+
+
+
+
+76 76 D D L 
+
+188 76 D L L 
+
+
+111 78 D D L L U U 
+126 78 L D 
+
+
+
+20 81 U U L D L U L D 
+
+
+
+
+
+
+
+
+
+25 85 L D D 
+
+73 86 D D L 
+
+
+8 88 D D L D L D R 
+
+
+
+
+
+
+
+47 91 L U 
+
+
+
+
+
+
+
+
+241 94 D L L L 
+130 95 L D D D 
+
+
+
+
+
+136 100 D D L L U L D D 
+
+
+
+
+5 104 L L 
+
+
+195 104 U L D L L 
+
+
+
+186 106 U L U U L 
+
+
+158 107 D D D D L 
+
+
+226 107 D D 
+236 107 D D D L D L 
+
+
+
+
+
+42 114 D D 
+
+205 114 D L D D D L L D L L U L D L L U 
+
+
+
+136 115 L D D L L U 
+
+249 115 U U U U 
+202 117 U U L D 
+218 118 L D L 
+
+
+
+
+123 120 U L U 
+
+
+
+
+
+
+153 125 U U L L D L D L D L D L L L D L 
+
+
+
+139 127 D D D L U L U L U U U L U U L L D 
+35 128 D D D D D D L L D D D D L L 
+
+
+
+143 129 D L D D L L 
+
+
+
+162 130 L D 
+54 131 D D L U L 
+126 131 D L U 
+
+
+140 133 L U U L L D D D D L L 
+
+
+
+149 136 L U 
+
+
+
+137 138 L L L U U U L L L D D D L 
+
+
+
+
+
+240 140 D L U U L 
+35 141 L U L D L D 
+
+
+48 143 D L 
+
+
+
+91 146 D L L L U U L L U L D D L U L D 
+
+71 147 D D D L D L D L D L L U L 
+
+
+132 149 D R 
+
+130 150 D L D D D 
+99 151 D L D D R 
+
+
+135 152 D D D L L L D L 
+
+
+203 152 U L 
+
+
+194 153 L D L D L L L D L 
+
+
+
+
+
+
+42 158 D D D D 
+
+
+
+
+
+
+36 167 D D D L L D L L D D L L U 
+
+
+
+117 169 L D 
+
+
+203 173 L D 
+
+
+
+
+
+142 174 U L 
+
+
+
+
+
+223 177 D D D L D D L 
+
+
+
+
+
+
+
+69 183 D L D D L L L D D D D L L D R 
+
+158 183 L D L L 
+
+130 184 L D L D L L D L L 
+
+
+
+
+
+
+41 191 D L 
+
+
+
+
+
+185 195 D L D D 
+251 196 D D D D L D L L D D D D D L L L 
+
+
+
+
+143 200 D D 
+153 200 D D 
+
+
+
+
+
+
+
+139 203 L L D L L L 
+
+
+174 205 L D L 
+
+
+
+86 207 D D L L L U U L D L L L L D D D D D L 
+184 207 D D 
+
+
+
+
+
+5 211 D L 
+152 211 L L D L L 
+
+
+
+
+
+
+
+
+206 213 D D L D L D D D D L L U L D L D 
+8 214 D D L L 
+
+
+
+
+
+
+231 219 D D 
+
+58 221 L D L D 
+89 221 D L L L 
+
+
+
+
+
+
+215 224 L D D D L L L D 
+
+
+
+
+
+
+66 229 L D D 
+
+
+
+
+164 231 D D D L L 
+
+
+
+
+
+
+
+
+
+
+134 238 D L L L 
+
+
+
+25 241 D L D D L U L D L 
+
+231 241 L U L L L D D L L L 
+
+96 242 D D D L L L D D L D L D D L D D 
+
+158 242 D D L U U L L L D D L D D L L L 
+
+
+147 2 D D 
+
+
+
+
+146 5 L D D D L U L L L L D L L U L D D L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+109 17 U R 
+198 19 U U L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+184 30 U U 
+
+
+129 31 D L 
+
+119 32 L D D 
+
+210 32 D D D D 
+
+
+231 34 D L L D D L L U 
+
+
+
+
+
+57 41 D L U U U L D L D L L U L 
+
+219 41 L D L L L U L L L 
+29 43 D D D D 
+
+
+
+
+
+
+
+230 48 D D D D D L D D D L L D D L 
+
+97 50 D R 
+
+
+
+
+39 53 D L L L D D L D 
+
+
+
+
+
+10 57 L U 
+16 57 D D D D D 
+98 58 L L U L D L L 
+
+
+
+
+
+117 60 L D L U L 
+
+
+
+
+
+
+41 63 D L D D L D L L U U L D 
+107 63 D L D L D D D 
+
+
+
+
+
+
+
+
+
+115 67 D D 
+
+
+
+
+
+
+99 70 D L L L U U L 
+145 70 L D L D L L L D L D D L D L U L L L 
+38 71 L L D L D L L D L L 
+
+
+
+
+
+
+186 76 L D D D D L L D D 
+204 78 D L D D D L L D D D D L 
+
+166 79 L D L D D D L D L D 
+131 80 D D L L U L D L D D D L U L U 
+31 82 D L L 
+
+
+
+145 84 D R 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+224 95 L D L D L L U U U U L L U L L 
+
+
+
+249 97 U U U L L U 
+
+
+29 98 U L L U L D L D D L L 
+
+
+
+
+209 101 L D D L L 
+
+
+166 103 D D L L U L D D L L L L 
+237 103 D D R 
+
+
+
+113 107 D D L D L D L L L L D L D D D D D D 
+
+
+
+239 109 D D 
+
+
+
+
+
+140 112 U U U L 
+162 112 L D D L L U L D L D D D D L L L 
+
+
+
+
+
+
+40 117 D L D D D 
+
+
+87 118 U L D L L D D D D D D 
+
+
+
+159 120 U U U 
+
+212 120 L L L U 
+
+41 121 D L D L L 
+
+
+
+
+
+
+
+
+181 125 D D D L 
+
+
+
+242 126 D L D L D D L L 
+
+
+
+
+
+
+
+181 132 D D L D L D 
+88 133 U L L L D D D D D D L 
+
+
+
+
+
+
+
+164 134 L L L L L L L 
+
+
+
+
+
+
+
+
+
+
+
+58 142 L D L L 
+
+74 143 L D 
+
+
+
+
+
+
+
+
+233 148 D L L D D 
+10 149 D L L U U U U U L U L D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59 153 D L D 
+
+
+84 155 L U 
+166 155 D D L D L D L L 
+
+
+
+
+
+
+150 157 D L D D D D L L D D D L 
+
+
+
+
+
+36 160 D L U L D L L L L L U U L 
+58 161 L D D L L 
+227 161 L L L D L L D L L 
+
+
+
+
+185 162 L D L D L D L U U L 
+
+
+79 163 L D D D D L L U U U U L 
+
+
+
+
+
+
+
+169 166 D D L 
+176 167 D D L U U 
+
+
+
+
+
+30 170 U L D L L L L L D L L L D L 
+
+
+
+
+
+
+122 173 L L L U R 
+
+143 175 D L D D D L L D D L L D L 
+
+155 176 U R 
+
+91 177 U L D D L D L L D 
+
+
+
+114 179 D D D D D D D D D L D L D L L D L 
+
+
+
+
+
+
+188 182 D D L D L 
+
+151 183 L D D L U L D D 
+
+112 185 D D L D L L L D L L 
+195 185 U U L U L D D L D D L 
+
+
+
+
+98 189 D R 
+133 189 D L U U L D D 
+
+
+
+
+
+
+177 192 L D L U L 
+193 192 U L 
+
+239 193 L L L L U L L D L L U U L L D D L 
+
+169 196 D D D L D D L L D 
+
+
+28 201 D D D L D L L U L 
+
+
+
+
+228 202 D D D L L D L 
+80 204 U U U L U U U 
+
+
+122 206 D R 
+
+
+
+
+
+
+245 212 D D L D D D L D 
+191 214 L D L 
+
+
+
+
+
+
+
+208 216 U U 
+
+198 217 L D D D D L L U U L D 
+188 218 U U U L U L L D L D L D L 
+
+
+
+147 221 D L L 
+180 221 D D R 
+
+247 222 L D D D D D L D D D L D 
+36 223 L D D D D L L 
+
+
+
+
+
+175 225 D L 
+
+
+
+
+
+177 228 D D L D L D L L L U L D D D 
+
+
+
+241 229 L L D L L D L L D L D D 
+
+
+
+
+
+39 233 L D L D 
+134 233 D D D D L 
+
+
+
+
+
+
+
+132 236 D D L L 
+
+
+
+
+
+
+
+
+216 242 D L U L L D 
+
+
+
+
+
+
+108 1 U U 
+106 3 L D L L L L L D D L 
+
+68 5 U L L D L L D L L 
+
+244 6 D D 
+
+
+35 9 U L 
+46 9 U L D D 
+
+
+
+13 12 U U L L D 
+27 13 U U U U U U L 
+
+
+229 14 L L L D D D 
+
+
+
+
+
+
+
+
+
+211 20 D D 
+
+251 21 L U R 
+116 22 L D D L D 
+7 23 D D L U U L U L D L L U U L D L D 
+
+
+
+
+
+
+206 24 D D L D D L L D D D D D D L D 
+
+
+
+
+
+
+
+
+
+187 29 U L L 
+
+
+227 31 D L U U U L L L D D L L D D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19 42 L D D D D D L 
+171 42 D L D L D 
+
+
+
+
+
+
+
+22 52 D L D D D L L D L D D 
+
+131 53 L D L D D D 
+202 53 D L L D D D 
+
+104 54 L U 
+
+
+36 58 L D D L D L D D L 
+
+
+
+
+150 63 L L U U L 
+
+
+
+
+204 67 D L D D D D L D L L D D R 
+
+
+
+
+103 69 U U R 
+
+
+
+
+
+238 71 D L L D D 
+
+173 72 U U U L 
+6 73 D L U L D L L L L 
+
+
+
+
+48 76 D D L 
+
+
+
+231 76 L L L 
+
+244 76 L U U L 
+1 77 L D D D L L D L D L D L D D L 
+
+
+208 79 D D L D D L D L D 
+243 79 U L U L U L 
+
+
+
+
+226 82 D D L D L D D L L D D 
+
+
+99 83 D L L 
+124 83 L L D 
+
+
+0 85 L U 
+
+
+96 87 D D D D D R 
+
+61 88 L L U U U L L 
+
+
+
+
+15 89 U U U U L L L D D 
+
+
+
+
+
+
+
+
+192 94 D L L D D L 
+158 95 D L D L L 
+
+
+
+
+211 96 L D L D D D L L U 
+229 96 U L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9 114 D L D D D L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+135 129 U L U U U 
+
+
+115 131 D L 
+
+
+
+
+
+
+78 135 L D D L D L L D 
+
+199 135 L L L U 
+
+
+
+
+
+
+
+
+
+
+
+
+
+177 146 L L 
+
+113 148 D D 
+
+
+
+
+
+
+
+
+
+
+
+
+208 157 U R 
+214 157 L L L L U 
+
+
+
+
+
+
+87 164 L D L U L L L D L L D 
+
+237 165 D D D L L D L L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+186 183 D L D L D D 
+
+76 186 L U U 
+
+
+69 187 D L 
+
+118 188 D D D 
+
+
+
+120 190 D D L L D L L L 
+
+
+
+
+
+
+
+
+54 197 D D R 
+
+
+
+
+
+
+223 200 D L L U L D L D D L L L D L L L U L 
+
+
+
+
+9 204 D L L L U 
+
+
+
+
+
+
+
+
+
+
+
+105 208 D L U L L D D L 
+
+17 213 D D L D D L 
+
+132 213 U U L L U L L D L U L 
+105 214 U L D L D D D D L D L D D L U 
+
+242 215 D D L L L L D L U L D L D 
+54 216 D D L 
+14 217 U U L 
+112 217 D D L 
+
+
+81 219 U U U U 
+
+
+
+
+
+
+17 222 L D D R 
+
+13 223 D L L D L D L U L D L L 
+
+
+
+178 225 L U U U U L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+145 236 L L L 
+
+
+
+207 238 D L L 
+
+
+
+
+
+
+
+
+38 3 D D L 
+207 3 U L D 
+
+78 5 L U L L L L L D L L U L 
+
+
+66 8 D L L L L U 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+136 18 U U 
+
+
+47 21 U L 
+
+
+
+
+
+
+
+48 27 D L L D D L L D D 
+
+
+
+
+
+88 33 D D D 
+
+
+
+
+
+
+
+
+
+
+
+201 42 U L D L L L 
+14 43 L D D L D D L L L 
+
+
+164 43 L D D L U L U U L D 
+
+
+
+
+
+
+
+
+
+242 50 U L D L D L D D 
+
+
+
+
+
+
+
+
+
+
+45 61 U L L L D L D 
+49 61 D D D D 
+
+
+
+170 65 L D L U U U L L L D 
+
+
+
+40 69 D L L L U L L L 
+74 69 D L 
+
+
+
+
+
+248 71 D R 
+46 75 L D L 
+
+
+
+
+180 79 L D 
+
+
+125 82 L L L L U U U L L D D D D D 
+
+
+
+46 85 L L D 
+
+
+168 86 L D D D L L U L U L 
+
+122 88 L U L U 
+196 88 U L L L 
+
+
+
+180 91 D D L L U L D 
+123 92 U L D 
+
+
+
+
+
+
+4 97 L U L L 
+
+109 97 D D D L L U U 
+
+
+
+
+
+
+174 102 D L D L U U 
+
+
+10 105 U L U L 
+34 106 D D 
+133 106 U U 
+
+
+
+78 110 D D L D 
+
+
+
+
+
+73 114 D D L D D 
+116 114 U L 
+153 116 D L L 
+
+
+
+246 117 L D L D D L 
+
+
+
+
+
+
+
+195 122 D D L D L D D D D 
+
+
+
+73 126 L U U 
+
+191 126 U U R 
+
+
+205 128 L D D L L L L L L L L L L D L L L D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+159 143 L D L L L D L D L L L L L D 
+
+
+
+
+
+161 146 L L L D L L L L 
+
+
+
+
+
+
+233 151 D L D L 
+
+
+
+123 155 D D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+184 170 D L D L 
+100 172 D D D D D D 
+
+
+
+
+
+
+
+127 177 D L D L U L D D 
+
+
+
+189 178 D L L L D L U U 
+
+121 181 D L L 
+
+
+172 185 D D L D L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+205 193 L L U U 
+
+111 198 D L L L L 
+150 198 D D D D D 
+
+
+111 201 D L L 
+
+
+
+
+
+138 205 D D 
+
+77 207 U U L L 
+
+
+
+
+
+
+
+179 213 D D D L D L D L L D 
+145 216 D D D D 
+
+
+
+
+
+
+
+
+106 224 U U 
+
+
+
+
+
+
+
+
+
+
+
+108 231 D L L D 
+
+
+
+
+
+238 235 D D D L D L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+115 6 L U L D L L D D D D D D 
+
+
+
+
+179 8 D R 
+
+
+
+
+
+
+
+30 12 D R 
+
+83 12 D D 
+
+47 15 U L L L D L U L D D L D 
+179 15 L L U L D 
+230 15 D L 
+
+
+
+149 17 U L L L L L U L D L L L 
+
+
+157 19 D D D L D L D D 
+
+
+95 20 D L D D R 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+183 37 D L 
+
+
+
+
+
+
+
+
+
+117 45 D D D D D L D D D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+115 63 L D D L U L D 
+
+
+
+
+
+
+
+
+
+94 67 D D L D D L D L 
+12 69 D D 
+155 69 L D 
+
+
+138 71 L D D D L L 
+
+0 75 D L D D L D L 
+
+
+
+
+
+
+160 77 D D D D R 
+
+
+
+27 80 D D D D L L U L 
+
+
+
+38 82 D D D L L D D 
+
+
+
+
+
+
+
+
+
+
+
+147 94 U L U U U U U U U L L U U L L L 
+
+
+247 96 L D 
+
+189 99 L U U L 
+
+
+
+
+
+69 103 L U U U U L L D L D L L D L 
+
+21 104 D L L D L D D D 
+235 104 U L D L D L D L L 
+
+38 105 L L D D D D L L L D L L U U L D 
+
+
+
+
+119 112 D D 
+
+
+
+
+
+
+
+
+
+
+223 124 L L L U L D D 
+
+
+
+
+215 132 L L D L U U U U 
+
+
+
+
+
+
+194 139 L D D D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+246 153 D D L L U 
+
+
+
+
+
+
+
+
+
+67 165 D L L 
+
+
+161 166 D L L L L U L L L L D 
+90 167 U U U 
+
+
+
+
+126 170 D L 
+
+
+
+
+94 176 L U U U L D D L 
+
+
+
+
+
+
+
+
+42 184 U L D L 
+
+175 184 U L U L D D L L L D L L L D 
+
+
+
+
+
+
+
+
+
+
+
+
+196 193 L U U U U L U L L L U L 
+
+
+
+246 199 D D D D L D L L D D L L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27 228 D D D 
+
+
+
+64 231 L L L D L D 
+
+
+
+
+
+
+
+
+
+
+11 2 L D D D L U L L L 
+
+
+
+
+
+
+
+
+
+153 10 L D 
+
+
+
+179 13 U L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+190 23 U L D L U L D L L D L L D 
+
+
+
+
+
+121 29 D L 
+
+
+
+
+
+
+
+
+
+
+
+
+3 41 U U U U L 
+
+
+
+127 43 D D 
+147 44 L L U L D L L 
+76 47 D D D D L D L U L L 
+20 50 L L U L U 
+
+
+
+
+
+
+151 54 L D L L D L U 
+
+
+161 57 U L D 
+
+151 58 L D D D D R 
+
+
+
+
+
+95 62 D D L 
+
+
+
+
+
+
+
+
+
+128 71 L U L L D D L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+16 82 U U L D D L L U U U U U U U U U L L 
+
+
+
+222 84 L L U U L L L 
+
+
+
+
+
+
+
+
+
+197 94 D D R 
+214 95 L L 
+
+
+
+
+
+
+
+156 102 D L D L D 
+
+
+
+198 106 D L D L L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+156 120 L D 
+
+
+
+
+
+68 124 D D D L U L L L D 
+
+
+
+
+13 127 U U L L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+137 152 D R 
+116 156 L L 
+58 159 L U L 
+
+
+
+
+
+
+
+230 171 U L U U R 
+
+
+
+
+
+
+
+
+221 179 L D L D L L U 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+97 195 D L L 
+
+
+
+
+76 199 D L L D D D D D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 217 L U U U L D 
+24 217 D L U 
+
+
+71 220 L D L U L L L 
+73 220 D D L L 
+
+
+
+
+10 222 D L L D L D 
+
+
+239 223 D L L D D L D L L D L L L 
+
+
+
+
+30 225 D L D L D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18 13 D L L 
+
+
+
+
+
+
+
+
+
+
+
+231 27 D R 
+
+
+194 30 D D D D L 
+
+
+
+
+
+
+
+242 37 U U U 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+172 57 L D D D L D L D 
+
+
+
+
+
+209 60 L D 
+224 60 D L D L L D D D L D 
+
+60 63 D D L L D L L L D D L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+45 92 L D L U 
+
+
+
+
+
+
+
+
+94 104 L L D 
+
+
+82 109 L L 
+
+
+
+
+
+
+
+
+
+
+
+118 118 U U L D D D L 
+
+
+
+
+
+
+6 121 D L D L 
+86 122 D D D D D L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+60 132 D L D L D 
+
+
+
+
+
+
+212 138 D D D L U L D D D D L D L D 
+
+
+
+
+
+65 144 D D L U L 
+
+
+
+
+
+189 149 L D 
+
+
+
+153 151 U U L D D 
+
+
+
+158 153 L D R 
+
+
+
+
+
+
+
+
+
+
+212 165 D D D L 
+
+
+
+
+
+65 169 U L U 
+
+
+
+118 171 U U 
+
+197 171 D D L D L D D D D L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+129 193 U U 
+
+
+158 195 L L L L L L D L L 
+
+
+
+234 199 L L D D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+222 208 D D 
+
+42 209 D D L D R 
+
+
+242 211 U L U U L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+136 226 U U U L U L D L L L U L L L L L 
+
+
+
+
+
+
+
+
+
+
+20 233 U L 
+
+
+
+
+85 0 D L L L D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+174 11 D D D D L L D D L L D L L L L L U 
+8 12 U U U U U U L L D L D L U U R 
+61 12 D L L 
+
+
+
+
+
+
+
+
+
+130 16 D D L D L D L D L L D L U L L U L L D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31 29 D L D D L D D 
+
+
+
+
+
+171 32 L D 
+
+
+
+76 37 D L L D R 
+
+
+
+
+
+241 40 D L 
+
+212 43 D L D L L L L 
+
+
+
+
+
+211 48 D L D L U L L L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+146 67 D L L L 
+19 68 L L U 
+
+
+
+176 71 D L L 
+
+
+
+
+
+
+173 78 U U L 
+
+
+
+
+
+
+
+
+
+183 86 L L U 
+
+
+
+
+157 92 D L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+74 112 L L 
+
+
+
+
+
+
+
+64 116 D L L 
+
+56 117 L D 
+
+
+
+
+
+246 123 D L L D D L 
+
+
+
+
+
+
+
+
+
+74 136 D L L U U L L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+69 148 D D L U L L L L D L L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+226 163 L D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66 183 D L 
+
+226 183 D D D D L D D L D L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+164 205 D L U U L D L D D D 
+
+
+
+1 209 U U L 
+73 209 U U L U U 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+70 231 U L D L D D L L D L D L L 
+
+
+
+
+221 236 D L L D D D L L 
+
+
+
+
+
+
+31 4 D R 
+
+245 4 L U L L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+241 15 D D L L D D L L D L D D L U U L 
+
+58 18 D L L U 
+
+
+150 20 U L D L L L D L U 
+
+
+53 23 D L D L 
+
+
+
+
+
+
+
+
+
+
+9 33 U L 
+
+220 34 D D L L U L L D L L 
+132 36 D D L U 
+150 36 U U 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+164 55 L L 
+
+
+
+
+
+29 65 L U 
+116 65 D L L 
+
+
+
+
+
+
+
+16 72 D L D D 
+
+
+
+195 74 U U L 
+
+
+
+
+
+73 79 L L L D L L D 
+
+
+
+
+163 80 U U L L 
+
+
+
+
+
+
+
+
+202 87 L L L L 
+
+
+
+
+
+
+
+
+34 91 D D D L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+147 135 D D D L L L D L L U L D D L D D D 
+
+
+
+
+
+
+103 140 L L D 
+
+
+
+
+148 148 L U L 
+
+
+
+
+
+
+
+
+121 157 D D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+178 178 L D L L L L L 
+
+
+14 180 L D D 
+
+
+
+19 185 L L D 
+120 185 L D L D L U 
+
+
+
+
+
+
+
+172 192 U U 
+
+65 195 D L L D D D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+72 204 L L D 
+
+
+
+
+
+
+
+239 210 L D D D D D 
+
+
+
+
+
+
+190 217 D L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+131 235 L D D 
+
+
+
+
+
+
+175 0 D D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7 13 D D L D D D 
+
+95 14 U L D L D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28 51 D L 
+
+
+
+
+
+
+
+
+
+33 59 D L D L D D L 
+
+
+
+

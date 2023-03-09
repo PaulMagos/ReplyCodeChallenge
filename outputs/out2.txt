@@ -1,0 +1,49 @@
+34 3 D L L L D L L L U L D D D L L 
+4 7 L D L D D D L D D L D 
+7 19 L L D L L D D 
+31 20 D D L D D D D L L D L L D D D D L 
+
+4 28 L L D L 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34 19 U U U U U 
+
+19 24 D L D R 
+
+
+33 48 U L D L L U 
+
+
+
+
+42 19 D D D D L L U L D L D D L D L L L L D 
+
+
+42 33 U L L L 
+
+
+32 37 D L D L D L D D D D L D D D 
+19 38 L L L L L D L D D 
+
+
+
+
+
+
+
+
+
+
+
